@@ -1,0 +1,54 @@
+@charset "UTF-8";
+body {
+  background-color: #f5F2E5;
+  background-image: url(images/flower.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+html {
+  font-size: 100%;
+}
+h1 {
+  font-size: 2rem;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  border-bottom: 2px solid #888888;
+}
+h2 {
+  font-size: 1rem;
+}
+p {
+  font-size: 16px;
+}
+div {
+  background: #dbedf0;
+  margin: 30px 30px 0 30px;
+  padding: 40px;
+  border-width: 4px;
+  border-style: double;
+  border-color: #888888;
+}
+ul {
+  list-style-type: disc;
+  list-style-image: url(images/untitled-1.png);
+}
+.blue {
+  color: #009bc6;
+}
+#blue {
+  color: #009bc6;
+}
+.gray {
+  color: #999;
+}
+
+.size {
+  font-size: 2rem;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.item {
+  background: #0bd;
+  color: #fff;
+  margin: 10px;
+  padding: 10px;
+}

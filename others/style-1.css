@@ -1,0 +1,41 @@
+@charset "UTF-8";
+body {
+    background-color: #333333;
+}
+div {
+    background-color: #fee;
+}
+html {
+    font-size: 100%;
+}
+h1 {
+    background-color: #fea;
+    color: #0bd;
+    font-size: 2rem;
+    font-family: 'M PLUS 1p', sans-serif;
+}
+h2 {
+    color: black;
+    font-size: 1.5rem;
+}
+h3 {
+    color: #0bd;
+    font-size: 18px;
+    font-family: "ピラギノ角ゴPro";
+    font-weight: normal;
+    text-align: justify;
+}
+h4 {
+    color: navy;
+    font-size: 18px;
+    font-family: "ピラギノ角ゴPro";
+    font-weight: normal;
+    text-align: justify;
+}
+h5 {
+    color: rgba(10, 130, 165, .5);
+    font-size: 18px;
+    font-family: "ピラギノ角ゴPro";
+    font-weight: normal;
+    text-align: justify;
+}
